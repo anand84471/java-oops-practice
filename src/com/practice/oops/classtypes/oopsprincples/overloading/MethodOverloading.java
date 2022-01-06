@@ -1,4 +1,5 @@
 package com.practice.oops.classtypes.oopsprincples.overloading;
 
-public class MetodOverloading {
+public class MethodOverloading {
+
 }
